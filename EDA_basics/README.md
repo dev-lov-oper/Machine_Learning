@@ -1,5 +1,5 @@
 
-# We will be doing Exploratory data anyslis of titaanic dataset befor ebegining to learn ML# Titanic Dataset: Exploratory Data Analysis (EDA)
+
 
 This section of the repository focuses on performing a comprehensive Exploratory Data Analysis (EDA) on the classic Titanic dataset before building Machine Learning models.
 
